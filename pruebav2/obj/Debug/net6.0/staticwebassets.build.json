@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Hhe8+b+ATa68iawjpPqb37MQWt8JkQybiAOrYJvY73Q=",
+  "Source": "pruebav2",
+  "BasePath": "_content/pruebav2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "pruebav2\\wwwroot",
+      "Source": "pruebav2",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\pruebav2\\pruebav2\\wwwroot\\",
+      "BasePath": "_content/pruebav2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\source\\repos\\pruebav2\\pruebav2\\wwwroot\\fotos\\08970528-6550-4438-b168-36f27724899c.jfif",
+      "SourceId": "pruebav2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\pruebav2\\pruebav2\\wwwroot\\",
+      "BasePath": "_content/pruebav2",
+      "RelativePath": "fotos/08970528-6550-4438-b168-36f27724899c.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fotos\\08970528-6550-4438-b168-36f27724899c.jfif"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>pruebav2</name>
+    </assembly>
+    <members>
+        <member name="M:pruebav2.Controllers.CategoriaController.GetCategorias">
+            <summary>
+            Obtener todas las categorias
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:pruebav2.Controllers.CategoriaController.GetCategoria(System.Int32)">
+            <summary>
+            Obtener una categoria por su ID
+            </summary>
+            <param name="CategoriaId">Digite el ID de la categoria</param>
+            <returns></returns>
+        </member>
+        <member name="M:pruebav2.Controllers.CategoriaController.CrearCategoria(pruebav2.Models.Dto.CategoriaDto)">
+            <summary>
+            Crear una categoria
+            </summary>
+            <param name="categoriaDto">Digite los datos solicitados para crear la categoria</param>
+            <returns></returns>
+        </member>
+        <member name="M:pruebav2.Controllers.CategoriaController.ActualizarCategoria(System.Int32,pruebav2.Models.Dto.CategoriaDto)">
+            <summary>
+            Actualizar los datos de una categoria
+            </summary>
+            <param name="categoriaId">Digite el ID de la categoria que quiere modificar</param>
+            <param name="categoriaDto">Cambie el dato que desea modificar</param>
+            <returns></returns>
+        </member>
+        <member name="M:pruebav2.Controllers.CategoriaController.EliminarCategoria(System.Int32)">
+            <summary>
+            Borrar una categoria por su ID
+            </summary>
+            <param name="categoriaId">Digite el ID de la categoria a eliminar</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
